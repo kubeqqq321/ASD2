@@ -1,0 +1,7 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Release\) zawiera pliki udostępnione z innego projektu (ASD2_MarciniakJ_hashtable.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  ASD2_MarciniakJ_hashtable.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 251 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ASD2_MarciniakJ_hashtable.vcxproj -> D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\Release\ASD2gr3_MarciniakJ_hashtable.exe

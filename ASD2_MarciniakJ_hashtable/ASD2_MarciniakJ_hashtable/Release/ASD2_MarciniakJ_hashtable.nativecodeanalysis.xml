@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+      <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Używanie niezainicjowanej pamięci „tableHash”.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Nie zainicjowano elementu „tableHash”</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_hashtable\ASD2_MarciniakJ_hashtable\</FILEPATH>
+        <FILENAME>ASD2_MarciniakJ_hashtable.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „tableHash” jest używany, ale mógł nie zostać zainicjowany</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
