@@ -1,0 +1,2 @@
+D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\Release\ASD2_MarciniakJ_SJF.exe.lastcodeanalysissucceeded
+D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\Release\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,7 @@
+﻿  ASD2_MarciniakJ_SJF.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ASD2_MarciniakJ_SJF.vcxproj -> D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\Release\ASD2_MarciniakJ_SJF.exe
+D:\Visual Studio projekty\Algorytmy i Struktury danych 2\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF\ASD2_MarciniakJ_SJF.cpp(152): warning C6385: Odczyt nieprawidłowych danych z elementu „otoczkaWypukla”: rozmiar obszaru do odczytu to „iloscDluzych*16”, ale odczytana liczba bajtów może wynieść: „32”.
